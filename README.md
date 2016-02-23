@@ -79,7 +79,7 @@ find a Wowza server, he takes the IP of the Wowza-Server and redirects to this I
 documented in the MongoDB.
 
 
-## What files are included in this Repository
+## Which files are included in this Repository
 * Term Paper - Dynamic Streaming  via nginx.pdf
  * Full installation guide including all instruction how to build and test this streaming solution
 * Presentation - Dynamic Streaming via nginx.pptx
