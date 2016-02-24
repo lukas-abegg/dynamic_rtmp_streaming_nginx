@@ -2,6 +2,7 @@
 
 This project should explain how to create high scalable streaming solutions based on nginx and Wowza Media Systems.
 
+![high scalable streaming solution](./HighScalableStreamingSolution.png)
 
 ## What should be achieved by this project
 As initial state, there was the requirement to create a high scalable dynamic streaming
